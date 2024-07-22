@@ -2,7 +2,7 @@
   <modelVersion>2.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
   <artifactId>studentapp</artifactId>
-  <version>4.0-SNAPSHOT</version>
+  <version>3.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
